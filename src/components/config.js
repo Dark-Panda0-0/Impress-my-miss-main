@@ -109,7 +109,7 @@ const config = {
     pictureTitle: "Our Pictures", // Title for the pictures recap page
     pictureGallery: [
       { title: "February 17, 2024", description: "Pizza company date??" }, // Picture entry
-      { title: "October 27, 2024", description: "Thanks for the surprise cake"}
+      { title: "October 27, 2024", description: "Thanks for the surprise cake"},
       { title: "April 08,2024",description: "somewhere new" },
     ],
   
